@@ -17,9 +17,9 @@ This repository contains a Docker Compose setup for the semester completion exer
 ## University / Course
 
 - University: New Bulgarian University (NBU)
-- Course: SDN / Computer Networks / Docker exercise
-- Lecturer: add lecturer name here
-- Student: optional / pseudonym
+- Course: Computer Networks
+- Lecturer: Nikolay Milovanov
+- Student: Aleksanadr Slavov
 
 ## Faculty number calculation
 
