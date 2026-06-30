@@ -19,7 +19,7 @@ This repository contains a Docker Compose setup for the semester completion exer
 - University: New Bulgarian University (NBU)
 - Course: Computer Networks
 - Lecturer: Nikolay Milovanov
-- Student: Aleksanadr Slavov
+- Student: Aleksandar Slavov
 
 ## Faculty number calculation
 
